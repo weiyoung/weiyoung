@@ -1,4 +1,7 @@
 ### Hi I'm weiyoung 👋
+## frontend developer | musician
+
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +12,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall be a secret 🤭)
 
----
+<br/>
 
 ### Languages and Tools:
 
@@ -22,7 +25,7 @@
   <img alt="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </code> 
 
----
+<br/>
 <br/>
 
 ![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
