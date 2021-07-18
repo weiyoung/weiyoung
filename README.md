@@ -1,19 +1,15 @@
 ### Hi I'm weiyoung 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall be a secret 🤭)
 
----
-
-**Languages and Tools:**  
+### Languages and Tools:
 
 <code>
   <img alt="JavaScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -34,6 +30,4 @@ Here are some ideas to get you started:
   <img alt="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </code> 
 
----
-
-[![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&show_icons=true&icon_color=#FFF&hide_border=true&include_all_commits=true&count_private=true)]
+![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
