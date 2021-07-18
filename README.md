@@ -25,9 +25,15 @@ Here are some ideas to get you started:
   <img alt="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </code>
 <code>
+  <img alt="Firebase" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</code>
+<code>
+  <img alt="MongoDB" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</code>
+<code>
   <img alt="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </code> 
 
 ---
 
-[![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&count_private=true)]
+[![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&show_icons=true&include_all_commits=true&theme=dark)]
