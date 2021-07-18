@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall remain a secret 🤭)
 
 <br/>
+
 ## Languages and Tools
 
 <img align="left" alt="JavaScript" height="28"
@@ -30,6 +31,7 @@
 <br/>
 <br/>
 <br/>
+
 ## Weiyoung's Github Stats
 
 ![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&theme=dark&show_icons=true&icon_color=13AB22&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)
