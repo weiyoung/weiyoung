@@ -2,7 +2,7 @@
 
 I'm a passionate, all-rounded software developer, currently a 4th year Computer Science student at UBC!
 
-I'm an avid music lover, from singing to piano to guitar. I sometimes make weird noises with my mouth too :)
+I'm an avid music lover 🎙 🎹 🎸 I sometimes make weird noises with my mouth too :)
 
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on a stock prediction web app
@@ -17,17 +17,17 @@ I'm an avid music lover, from singing to piano to guitar. I sometimes make weird
 
 ## Languages and Tools
 
-<img align="left" alt="JavaScript" height="28"
+<img align="left" alt="JavaScript" height="25"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="TypeScript" height="28"
+<img align="left" alt="TypeScript" height="25"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" alt="React" height="28"
+<img align="left" alt="React" height="25"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="Firebase" height="28"
+<img align="left" alt="Firebase" height="25"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
-<img align="left" alt="MongoDB" height="28"
+<img align="left" alt="MongoDB" height="25"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img align="left" alt="Node" height="28"
+<img align="left" alt="Node" height="25"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
 <br/>
