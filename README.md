@@ -1,6 +1,7 @@
-### Hi I'm weiyoung 👋
+## Hi I'm weiyoung 👋
 
-## frontend developer | musician
+I'm a passionate, all-rounded software developer, currently a 4th year Computer Science student at UBC!
+I'm an avid music lover, from singing to piano to guitar. I sometimes make weird noises with my mouth too :)
 
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on a stock prediction web app
