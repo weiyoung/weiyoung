@@ -11,8 +11,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall be a secret 🤭)
 
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" height="28"
@@ -28,9 +26,6 @@
 <img align="left" alt="Node" height="28"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ### Weiyoung's Github Stats:
