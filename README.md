@@ -2,14 +2,16 @@
 
 ## frontend developer | musician
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on a stock prediction web app
+- 🌱 I’m currently learning the MERN stack + Firebase 🔥
+- 👯 I’m looking to collaborate on cool startup projects
+- 🤔 I’m looking for internships
+- 💬 Ask me for song recommendations 🎶
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiyoung/) | [Instagram](https://www.instagram.com/wei2young/)
 - ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall be a secret 🤭)
+
+<br/>
 
 ### Languages and Tools:
 
@@ -26,6 +28,8 @@
 <img align="left" alt="Node" height="28"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
+<br/>
+<br/>
 <br/>
 
 ### Weiyoung's Github Stats:
