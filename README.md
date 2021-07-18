@@ -13,13 +13,6 @@
 
 <br/>
 
-### Spotify Now Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
-(https://open.spotify.com/user/12150018223)
-
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" height="28"
