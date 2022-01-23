@@ -1,14 +1,14 @@
 # Hi I'm weiyoung 👋
 
-I'm a passionate, all-rounded software developer, currently a 4th year Computer Science student at UBC!
+I'm a passionate, all-rounded software developer, currently a final year Computer Science student at UBC!
 
 I'm an avid music lover 🎙 🎹 🎸 I sometimes make weird noises with my mouth too :)
 
 - 😄 Pronouns: he/him/his
-- 🔭 I’m currently working on a stock prediction web app
-- 🌱 I’m currently learning the MERN stack + Firebase 🔥
-- 👯 I’m looking to collaborate on cool startup projects
-- 🤔 I’m looking for internships
+- 🔭 I’m currently working on a OpenGL 2D RPG puzzle game 🎮
+- 🌱 I’m currently learning OpenGL and python
+- 👯 I’m looking to collaborate on cool startup projects!
+- 🤔 I’m looking for full time dev positions starting in January 2023!
 - 💬 Ask me for song recommendations 🎶
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiyoung/) | [Instagram](https://www.instagram.com/wei2young/)
 - ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall remain a secret 🤭)
@@ -29,6 +29,8 @@ I'm an avid music lover 🎙 🎹 🎸 I sometimes make weird noises with my mou
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" alt="Node" height="25"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="Python" height="25"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 <br/>
 <br/>
