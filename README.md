@@ -1,6 +1,6 @@
 # Hi I'm weiyoung 👋
 
-Currently an SDE intern at BlackBerry, incoming SDE intern at Amazon.
+Open Source Developer Student at BlackBerry, incoming SDE intern at Amazon.
 
 I'm a passionate, all-rounded software developer, currently a final year Computer Science student at UBC!
 
