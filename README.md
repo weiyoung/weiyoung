@@ -1,18 +1,18 @@
 # Hi I'm weiyoung 👋
 
-SDE intern at Amazon.
+Final year Computer Science Stuent at UBC. Previously SDE intern at Amazon, BlackBerry, Diligent(Galvanize) and more!
 
-I'm a passionate, all-rounded software developer, currently a final year Computer Science student at UBC!
+I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile!
 
 I'm an avid music lover 🎙 🎹 🎸 I sometimes make weird noises with my mouth too :)
 
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on cool startup projects!
+- 👯 I’m looking to collaborate on startup projects!
 - 🤔 I’m looking for full time dev positions starting in May 2023!
 - 💬 Ask me for music recommendations 🎶
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiyoung/) | [Instagram](https://www.instagram.com/wei2young/)
-- ⚡ Fun fact: I started beatboxing at 20 years old (my true age shall remain a secret 🤭)
+- 💡 Fun fact: I started beatboxing at 20 years old (my true age shall remain a secret 🤭)
 
 <br/>
 
