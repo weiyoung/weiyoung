@@ -1,6 +1,8 @@
 # Hi I'm weiyoung 👋
 
-Final year Computer Science Stuent at UBC. Previously SDE intern at Amazon, BlackBerry, Diligent(Galvanize) and more!
+Final year Computer Science Stuent at UBC.
+
+Previously SDE intern at Amazon, BlackBerry, Diligent(Galvanize) and more!
 
 I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile!
 
