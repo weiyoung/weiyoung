@@ -2,7 +2,7 @@
 
 Final year Computer Science Student at UBC.
 
-Previous SDE intern at Amazon, BlackBerry, Diligent(Galvanize) and more!
+Previous SDE intern at Amazon, BlackBerry, Galvanize(now Diligent) and more!
 
 I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile!
 
