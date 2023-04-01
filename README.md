@@ -6,12 +6,12 @@ Previous SDE intern at Amazon, BlackBerry, Galvanize(now Diligent) and more!
 
 I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile!
 
-I'm an avid music lover 🎙 🎹 🎸 I sometimes make weird noises with my mouth too :)
+I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you what what I mean :)
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on startup projects!
-- 🤔 I’m looking for full time dev positions starting in May 2023!
+- 🤔 I’m looking for full time dev positions!
 - 💬 Ask me for music recommendations 🎶
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiyoung/) | [Instagram](https://www.instagram.com/wei2young/)
 - 💡 Fun fact: I started beatboxing at 20 years old (my true age shall remain a secret 🤭)
