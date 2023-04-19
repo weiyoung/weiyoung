@@ -9,7 +9,7 @@ I'm a passionate, all-rounded software developer 💻 with experience in both Fr
 I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you what what I mean :)
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently working on my personal website! Stay tuned 😎
+- 🌱 I’m currently working on my personal website! Stay tuned!
 - 👯 I’m looking to collaborate on startup projects!
 - 🤔 I’m looking for full time dev positions!
 - 💬 Ask me for music recommendations 🎶
