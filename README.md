@@ -4,7 +4,7 @@ Final year Computer Science Student at UBC.
 
 Previous SDE intern at Amazon, BlackBerry, Galvanize(now Diligent) and more!
 
-I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile development!
+I'm a passionate, all-rounded software developer 💻 with experience in Frontend, Backend, and Mobile development.
 
 I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you what what I mean :)
 
