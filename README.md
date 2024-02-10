@@ -1,6 +1,6 @@
 # Hi I'm weiyoung 👋
 
-Final year Computer Science Student at UBC.
+BSc in Computer Science at The University of British Columbia in Vancouver, Canada.
 
 Previous SDE intern at Amazon, BlackBerry, Galvanize(now Diligent) and more!
 
