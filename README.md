@@ -43,4 +43,4 @@ I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! Th
 
 ## Weiyoung's Github Stats
 
-![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&theme=dark&show_icons=true&icon_color=13AB22&hide_border=true&hide_title=true&include_all_commits=false&count_private=true)
+![Weiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyoung&theme=dark&show_icons=true&icon_color=0bd68c&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)
