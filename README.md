@@ -10,7 +10,7 @@ I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! Th
 
 Outside of programming and music, I enjoy gym💪, outdoors⛰️, food😋, and philosophy🤓
 
-Checkout my 🖥️ [personal website](https://wei2young.com/)!
+Checkout my personal website/blog 🖥️ at [wei2young.com](https://wei2young.com/)!
 
 - 😄 Pronouns: he/him
 - 🌱 I'm currently working on a self-improvement mobile app!
