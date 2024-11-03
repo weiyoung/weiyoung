@@ -4,7 +4,7 @@ I'm a passionate, all-rounded software developer 💻 with experience in Fronten
 
 I hold a BSc in Computer Science from The University of British Columbia in Vancouver, Canada 🇨🇦
 
-I previously interned at AWS, BlackBerry, Diligent(Galvanize), BGC Engineering, and more!
+I previously worked at Amazon Web Services, BlackBerry, Diligent(Galvanize), BGC Engineering, and more!
 
 I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you what what I mean :)
 
