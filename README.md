@@ -6,7 +6,7 @@ I hold a BSc in Computer Science from The University of British Columbia in Vanc
 
 I previously worked at Amazon Web Services, BlackBerry, Diligent(Galvanize), BGC Engineering, and more!
 
-I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you what what I mean :)
+I'm an avid music lover 🎙 🎹 🎸 I sing, play instruments, and beatbox! That's right 👢&🐱 if you know what what I mean :)
 
 Outside of programming and music, I enjoy gym💪, outdoors⛰️, food😋, and philosophy🤓
 
